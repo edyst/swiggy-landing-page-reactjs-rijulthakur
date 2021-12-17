@@ -1,4 +1,3 @@
-Name:Rijul Thakur ID:1911981197
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
